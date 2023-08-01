@@ -1,0 +1,9 @@
+button {
+    margin-top: 20px;
+}
+
+#current-page {
+    color: #fff;
+    font-size: 1.3rem;
+    padding: 10px;
+}
